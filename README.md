@@ -1,13 +1,13 @@
 # Olá, eu sou Allan Cardoso de Oliveira 👋
 
-**Desenvolvedor Frontend & Bacharelndo em Ciência da Computação na UFC**
+**Desenvolvedor Frontend & Bacharel em Ciência da Computação na UFC**
 
 📍 Jaguaruana / Russas, Ceará, Brasil
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Cursando **Bacharelado em Ciência da Computação** na **Universidade Federal do Ceará (UFC - Campus Russas)** (Mar. 2022 - Jun. 2026).
+- 🎓 **Bacharel em Ciência da Computação** na **Universidade Federal do Ceará (UFC - Campus Russas)** (Mar. 2022 - Jun. 2026).
 - 💼 **Desenvolvedor Frontend** na **Conexus Tech** (Atualmente), focado em Vue.js, TypeScript e Tailwind CSS.
 - 🏫 Ex-estagiário no **PROGETE**, desenvolvendo sistemas de gamificação acadêmica com React.js, TypeScript e Styled Components.
 - 🔬 Pesquisa e TCC focados em **Computação Distribuída** e **Processamento de Grafos com Apache Spark**.
