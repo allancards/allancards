@@ -1,35 +1,35 @@
-# Olá, eu sou Allan Cardoso de Oliveira 👋[cite: 1]
+# Olá, eu sou Allan Cardoso de Oliveira 👋
 
-**Desenvolvedor Frontend & Bacharelndo em Ciência da Computação na UFC**[cite: 1]
+**Desenvolvedor Frontend & Bacharelndo em Ciência da Computação na UFC**
 
-📍 Jaguaruana / Russas, Ceará, Brasil[cite: 1]
+📍 Jaguaruana / Russas, Ceará, Brasil
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Cursando **Bacharelado em Ciência da Computação** na **Universidade Federal do Ceará (UFC - Campus Russas)** (Mar. 2022 - Jun. 2026)[cite: 1].
-- 💼 **Desenvolvedor Frontend** na **Conexus Tech** (Atualmente), focado em Vue.js, TypeScript e Tailwind CSS[cite: 1].
-- 🏫 Ex-estagiário no **PROGETE**, desenvolvendo sistemas de gamificação acadêmica com React.js, TypeScript e Styled Components[cite: 1].
-- 🔬 Pesquisa e TCC focados em **Computação Distribuída** e **Processamento de Grafos com Apache Spark**[cite: 1].
+- 🎓 Cursando **Bacharelado em Ciência da Computação** na **Universidade Federal do Ceará (UFC - Campus Russas)** (Mar. 2022 - Jun. 2026).
+- 💼 **Desenvolvedor Frontend** na **Conexus Tech** (Atualmente), focado em Vue.js, TypeScript e Tailwind CSS.
+- 🏫 Ex-estagiário no **PROGETE**, desenvolvendo sistemas de gamificação acadêmica com React.js, TypeScript e Styled Components.
+- 🔬 Pesquisa e TCC focados em **Computação Distribuída** e **Processamento de Grafos com Apache Spark**.
 
 ---
 
-### 🛠️ Habilidades Técnicas[cite: 1]
+### 🛠️ Habilidades Técnicas
 
-**Linguagens de Programação**[cite: 1]
-- TypeScript • JavaScript • Python • Java[cite: 1]
+**Linguagens de Programação**
+- TypeScript • JavaScript • Python • Java
 
-**Desenvolvimento Frontend**[cite: 1]
-- React.js • Next.js • Vue.js • Tailwind CSS • Styled Components • React-PDF[cite: 1]
+**Desenvolvimento Frontend**
+- React.js • Next.js • Vue.js • Tailwind CSS • Styled Components • React-PDF
 
-**Backend & ORM**[cite: 1]
-- Node.js • Express • FastAPI • Prisma ORM • Server Actions • Zod[cite: 1]
+**Backend & ORM**
+- Node.js • Express • FastAPI • Prisma ORM • Server Actions • Zod
 
-**Bancos de Dados & Big Data**[cite: 1]
-- PostgreSQL • MySQL • MongoDB • Apache Spark • PySpark[cite: 1]
+**Bancos de Dados & Big Data**
+- PostgreSQL • MySQL • MongoDB • Apache Spark • PySpark
 
-**Ferramentas & Outros**[cite: 1]
-- Docker • Git • GitHub • Clerk Auth • Resend API • APIs REST[cite: 1]
+**Ferramentas & Outros**
+- Docker • Git • GitHub • Clerk Auth • Resend API • APIs REST
 
 ---
 
@@ -49,23 +49,23 @@
 
 ---
 
-### 📌 Projetos em Destaque[cite: 1]
+### 📌 Projetos em Destaque
 
-- ⚽ **Matchday - Gerenciador de Peladas**[cite: 1]
-  - Aplicação web para organização de partidas de futebol amador, com sorteio automático, balanceamento de times e controle de presença[cite: 1].
-  - **Techs:** Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL, Auth0, Zod[cite: 1].
+- ⚽ **Matchday - Gerenciador de Peladas**
+  - Aplicação web para organização de partidas de futebol amador, com sorteio automático, balanceamento de times e controle de presença.
+  - **Techs:** Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL, Auth0, Zod.
 
-- 📄 **Proposal Engine - Gestão e Assinatura Digital**[cite: 1]
-  - Plataforma Full-stack para criação e assinatura digital de propostas comerciais em tempo real, envio de e-mails, emissão de PDFs e sistema de auditoria jurídica (`Signature Audit`)[cite: 1].
-  - **Techs:** Next.js, TypeScript, PostgreSQL (Neon), Clerk, Tailwind CSS, Prisma, Resend API, @react-pdf/renderer, Zod[cite: 1].
+- 📄 **Proposal Engine - Gestão e Assinatura Digital**
+  - Plataforma Full-stack para criação e assinatura digital de propostas comerciais em tempo real, envio de e-mails, emissão de PDFs e sistema de auditoria jurídica (`Signature Audit`).
+  - **Techs:** Next.js, TypeScript, PostgreSQL (Neon), Clerk, Tailwind CSS, Prisma, Resend API, @react-pdf/renderer, Zod.
 
-- 📊 **TCC - Processamento de Grafos com Apache Spark**[cite: 1]
-  - Pesquisa em computação distribuída para análise de escalabilidade e otimização de algoritmos em grafos de grande escala[cite: 1].
-  - **Techs:** Scala, Apache Spark, GraphX[cite: 1].
+- 📊 **TCC - Processamento de Grafos com Apache Spark**
+  - Pesquisa em computação distribuída para análise de escalabilidade e otimização de algoritmos em grafos de grande escala.
+  - **Techs:** Scala, Apache Spark, GraphX.
 
-- ✈️ **Sistema de Gerenciamento de Aeroportos**[cite: 1]
-  - Processamento de dados de malhas aéreas em larga escala com PySpark, geração de gráficos interativos e mapas geoespaciais[cite: 1].
-  - **Techs:** Python, PySpark, Google Colab[cite: 1].
+- ✈️ **Sistema de Gerenciamento de Aeroportos**
+  - Processamento de dados de malhas aéreas em larga escala com PySpark, geração de gráficos interativos e mapas geoespaciais.
+  - **Techs:** Python, PySpark, Google Colab.
 
 ---
 
@@ -78,7 +78,7 @@
 
 ---
 
-### 📫 Conecte-se Comigo[cite: 1]
+### 📫 Conecte-se Comigo
 
 <p align="left">
   <a href="https://linkedin.com/in/allan-cardoso-developer" target="_blank">
