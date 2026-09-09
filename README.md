@@ -104,7 +104,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e colaboração em equipes 
 ## 🎓 Educação
 
 ### Universidade Federal do Ceará (UFC) – Campus Russas  
-**Bacharelado em Ciência da Computação**  
+**Bacharel em Ciência da Computação**  
 
 
 ### E.E.E.P. Francisca Rocha Silva  
